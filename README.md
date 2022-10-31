@@ -1,10 +1,8 @@
 Hi 👋 My name is Krisuv Bohara
 ==============================
 
-Flutter, Django and UI/UX Design
+Mobile Application Development, FULL STACK DEVELOPMENT and UI/UX Design
 --------------------------
-
-Self Taught Developer
 
 *   🌍  I'm from Kathmandu, Nepal currently Living in Toronto,Canada
 *   ✉️  You can contact me at [krisuv16@gmail.com](mailto:krisuv16@gmail.com)
