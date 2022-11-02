@@ -1,8 +1,7 @@
 Hi 👋 My name is Krisuv Bohara
 ==============================
-
-Mobile Application Development, FULL STACK DEVELOPMENT and UI/UX Design
---------------------------
+Mobile Developer
+==============================
 
 *   🌍  I'm from Kathmandu, Nepal currently Living in Toronto,Canada
 *   ✉️  You can contact me at [krisuv16@gmail.com](mailto:krisuv16@gmail.com)
